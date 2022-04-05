@@ -1,2 +1,1 @@
-# Stringassignment
-submission string assignment
+#assignmentsubmission
